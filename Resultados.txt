@@ -1,0 +1,24 @@
+ Interpretación de resultados:
+
+a. ¿De qué trata el dataset?
+El dataset muestra los resultados académicos de estudiantes, incluyendo fecha, género, total de puntos posibles y puntos obtenidos.
+
+b. ¿Qué muestra el resumen estadístico?
+Permite ver la media, mediana, desviación estándar y rangos de las calificaciones obtenidas (obtain m) y totales (total m), lo que ayuda a entender el rendimiento general.
+
+c. ¿Qué tendencias se detectan?
+Al comparar los primeros y últimos registros, podrías notar si hay una mejora o disminución en las calificaciones a lo largo del tiempo.
+
+d. ¿Qué categorías sobresalen?
+Si analizas por género o por año, podrías ver si hay diferencias significativas en el rendimiento. Por ejemplo, ¿hay un grupo que consistentemente obtiene más puntos?
+
+e. ¿Diferencias entre primeros y últimos registros?
+Puedes observar si los estudiantes al inicio del dataset tienen mejores resultados que los del final, lo que podría indicar una tendencia temporal.
+
+f. ¿Qué aportan las medidas estadísticas?
+La media y desviación estándar te ayudan a entender si los resultados están concentrados o dispersos. La mediana muestra el punto medio, útil si hay valores extremos.
+
+
+¿Quieres que te ayude a convertir esto en un informe narrativo o presentación para tu clase? Puedo ayudarte a redactarlo con estilo educativo y visual.
+
+
