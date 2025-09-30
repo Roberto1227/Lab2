@@ -10,9 +10,7 @@ c. ¿Qué tendencias se detectan?
 Al comparar los primeros y últimos registros, podrías notar si hay una mejora o disminución en las calificaciones a lo largo del tiempo.
 
 d. ¿Qué categorías sobresalen?
-Si analizas por género o por año, podrías ver si hay diferencias significativas en el rendimiento. Por ejemplo, ¿hay un grupo que consistentemente obtiene más puntos?
-
-e. ¿Diferencias entre primeros y últimos registros?
+Si analizas por género o por año, podrías ver si hay diferencias significativas en el rendimiento. 
 Puedes observar si los estudiantes al inicio del dataset tienen mejores resultados que los del final, lo que podría indicar una tendencia temporal.
 
 f. ¿Qué aportan las medidas estadísticas?
